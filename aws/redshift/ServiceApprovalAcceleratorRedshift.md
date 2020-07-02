@@ -36,9 +36,10 @@ white papers, and blog posts.
 <p>For S3 encryption details see S3 Accelerator.</p>
 <p>For KMS details see KMS Accelerator</p></td>
 <td><ol type="1">
-<li><p><a href="https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-db-encryption.html">https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-db-encryption.html</a></p></li>
-<li><p><a href="https://docs.aws.amazon.com/redshift/latest/mgmt/migrating-to-an-encrypted-cluster.html">Migrating an Unencrypted Cluster to an Encrypted Cluster</a></p></li>
-<li><p><a href="https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-clusters.html">https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-clusters.html</a></p></li>
+<li><p><a href="https://cloud.google.com/security/encryption-at-rest/default-encryption">Default encryption at rest on GCP:</a></p></li>
+<li><p><a href="https://cloud.google.com/blog/products/containers-kubernetes/exploring-container-security-use-your-own-keys-to-protect-your-data-on-gke
+">Using your own keys to protect data on GKE: r</a></p></li>
+<li><p><a href="https://https://cloud.google.com/kubernetes-engine/docs/how-to/encrypting-secrets">Application Layer Secrets Encryption: </a></p></li>
 </ol></td>
 </tr>
 <tr class="even">
